@@ -1,0 +1,2 @@
+Sup	Freq Itemset
+0.33	[39, 48]
